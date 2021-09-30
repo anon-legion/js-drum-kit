@@ -1,0 +1,1 @@
+JavaScript exercise integrating html with JS logic and event listeners 
